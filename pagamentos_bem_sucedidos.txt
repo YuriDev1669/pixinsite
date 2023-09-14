@@ -1,0 +1,9 @@
+
+
+ID do Pagamento: 123456789
+Data do Pagamento: 2023-09-25
+Valor: 100.5
+Moeda: BRL
+Status: approved
+ID do Comprador: 987654321
+Email do Comprador: comprador@example.com
